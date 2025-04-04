@@ -1,0 +1,360 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:38:55] plugins = ""  (string)
+[08:38:55] 
+[08:38:55] Server Plugins
+[08:38:55] --------------
+[08:38:55]  Loaded 0 plugins.
+
+[08:38:55] 
+[08:38:55] Filterscripts
+[08:38:55] ---------------
+[08:38:55]   Loading filterscript 'gl_actions.amx'...
+[08:38:55]   Loading filterscript 'gl_realtime.amx'...
+[08:38:55]   Loading filterscript 'gl_property.amx'...
+[08:38:55] 
+-----------------------------------
+[08:38:55] Grand Larceny Property Filterscript		
+[08:38:55] -----------------------------------
+
+[08:38:55]   Loading filterscript 'gl_mapicon.amx'...
+[08:38:55]   Loading filterscript 'ls_elevator.amx'...
+[08:38:55]   Loading filterscript 'attachments.amx'...
+[08:38:55]   Loading filterscript 'skinchanger.amx'...
+[08:38:55] 
+--Admin Player Skin Changer Loaded
+
+[08:38:55]   Loading filterscript 'vspawner.amx'...
+[08:38:55] 
+--Admin Vehicle Spawner Loaded
+
+[08:38:55]   Loading filterscript 'ls_mall.amx'...
+[08:38:55]   Loading filterscript 'ls_beachside.amx'...
+[08:38:55] 
+
+[08:38:55]   |---------------------------------------------------
+[08:38:55]   |--- LS BeachSide Filterscript
+[08:38:55]   |--  Script v1.03
+[08:38:55]   |--  19th April 2015
+[08:38:55]   |---------------------------------------------------
+[08:38:55]   |--  LS BeachSide Building Elevator created
+[08:38:55]   |---------------------------------------------------
+[08:38:55]   Loaded 10 filterscripts.
+
+[08:38:55] Reading File: blank
+[08:38:55] Reading File: properties/houses.txt
+[08:38:55] Reading File: properties/businesses.txt
+[08:38:55] Reading File: properties/banks.txt
+[08:38:55] Reading File: properties/police.txt
+[08:38:55] 
+----------------------------------
+[08:38:55]  ||RAVANAPURA-Role Playing by Team ALPHA||
+[08:38:55] ----------------------------------
+
+[08:38:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:42:43] plugins = ""  (string)
+[08:42:43] 
+[08:42:43] Server Plugins
+[08:42:43] --------------
+[08:42:43]  Loaded 0 plugins.
+
+[08:42:43] 
+[08:42:43] Filterscripts
+[08:42:43] ---------------
+[08:42:43]   Loading filterscript 'gl_actions.amx'...
+[08:42:43]   Loading filterscript 'gl_realtime.amx'...
+[08:42:43]   Loading filterscript 'gl_property.amx'...
+[08:42:43] 
+-----------------------------------
+[08:42:43] Grand Larceny Property Filterscript		
+[08:42:43] -----------------------------------
+
+[08:42:43]   Loading filterscript 'gl_mapicon.amx'...
+[08:42:43]   Loading filterscript 'ls_elevator.amx'...
+[08:42:43]   Loading filterscript 'attachments.amx'...
+[08:42:43]   Loading filterscript 'skinchanger.amx'...
+[08:42:43] 
+--Admin Player Skin Changer Loaded
+
+[08:42:43]   Loading filterscript 'vspawner.amx'...
+[08:42:43] 
+--Admin Vehicle Spawner Loaded
+
+[08:42:43]   Loading filterscript 'ls_mall.amx'...
+[08:42:43]   Loading filterscript 'ls_beachside.amx'...
+[08:42:43] 
+
+[08:42:43]   |---------------------------------------------------
+[08:42:43]   |--- LS BeachSide Filterscript
+[08:42:43]   |--  Script v1.03
+[08:42:43]   |--  19th April 2015
+[08:42:43]   |---------------------------------------------------
+[08:42:43]   |--  LS BeachSide Building Elevator created
+[08:42:43]   |---------------------------------------------------
+[08:42:43]   Loaded 10 filterscripts.
+
+[08:42:43] Reading File: blank
+[08:42:43] Reading File: properties/houses.txt
+[08:42:43] Reading File: properties/businesses.txt
+[08:42:43] Reading File: properties/banks.txt
+[08:42:43] Reading File: properties/police.txt
+[08:42:43] 
+-----------------------------------------
+[08:42:43] ||RAVANAPURA-Role Playing by Team ALPHA||
+[08:42:43] -----------------------------------------
+
+[08:42:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:55:42] plugins = ""  (string)
+[08:55:42] 
+[08:55:42] Server Plugins
+[08:55:42] --------------
+[08:55:42]  Loaded 0 plugins.
+
+[08:55:42] 
+[08:55:42] Filterscripts
+[08:55:42] ---------------
+[08:55:42]   Loading filterscript 'gl_actions.amx'...
+[08:55:42]   Loading filterscript 'gl_realtime.amx'...
+[08:55:42]   Loading filterscript 'gl_property.amx'...
+[08:55:42] 
+-----------------------------------
+[08:55:42] Grand Larceny Property Filterscript		
+[08:55:42] -----------------------------------
+
+[08:55:42]   Loading filterscript 'gl_mapicon.amx'...
+[08:55:42]   Loading filterscript 'ls_elevator.amx'...
+[08:55:42]   Loading filterscript 'attachments.amx'...
+[08:55:42]   Loading filterscript 'skinchanger.amx'...
+[08:55:42] 
+--Admin Player Skin Changer Loaded
+
+[08:55:42]   Loading filterscript 'vspawner.amx'...
+[08:55:42] 
+--Admin Vehicle Spawner Loaded
+
+[08:55:42]   Loading filterscript 'ls_mall.amx'...
+[08:55:42]   Loading filterscript 'ls_beachside.amx'...
+[08:55:42] 
+
+[08:55:42]   |---------------------------------------------------
+[08:55:42]   |--- LS BeachSide Filterscript
+[08:55:42]   |--  Script v1.03
+[08:55:42]   |--  19th April 2015
+[08:55:42]   |---------------------------------------------------
+[08:55:42]   |--  LS BeachSide Building Elevator created
+[08:55:42]   |---------------------------------------------------
+[08:55:42]   Loaded 10 filterscripts.
+
+[08:55:42] Reading File: blank
+[08:55:42] Reading File: properties/houses.txt
+[08:55:42] Reading File: properties/businesses.txt
+[08:55:42] Reading File: properties/banks.txt
+[08:55:42] Reading File: properties/police.txt
+[08:55:42] 
+-----------------------------------------
+[08:55:42] ||RAVANAPURA-Role Playing by Team ALPHA||
+[08:55:42] -----------------------------------------
+
+[08:55:42] Number of vehicle models: 0
+[08:56:17] [connection] incoming connection: 127.0.0.1:63580 id: 0
+[08:56:17] [join] desabandu has joined the server (0:127.0.0.1)
+[08:58:28] [part] desabandu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:29:59] 
+[09:29:59] Server Plugins
+[09:29:59] --------------
+[09:29:59]  Loading plugin: mysql
+[09:29:59]   Failed.
+[09:29:59]  Loaded 0 plugins.
+
+[09:30:00] 
+[09:30:00] Filterscripts
+[09:30:00] ---------------
+[09:30:00]   Loading filterscript 'gl_actions.amx'...
+[09:30:00]   Loading filterscript 'gl_realtime.amx'...
+[09:30:00]   Loading filterscript 'gl_property.amx'...
+[09:30:00] 
+-----------------------------------
+[09:30:00] Grand Larceny Property Filterscript		
+[09:30:00] -----------------------------------
+
+[09:30:00]   Loading filterscript 'gl_mapicon.amx'...
+[09:30:00]   Loading filterscript 'ls_elevator.amx'...
+[09:30:00]   Loading filterscript 'attachments.amx'...
+[09:30:00]   Loading filterscript 'skinchanger.amx'...
+[09:30:00] 
+--Admin Player Skin Changer Loaded
+
+[09:30:00]   Loading filterscript 'vspawner.amx'...
+[09:30:00] 
+--Admin Vehicle Spawner Loaded
+
+[09:30:00]   Loading filterscript 'ls_mall.amx'...
+[09:30:00]   Loading filterscript 'ls_beachside.amx'...
+[09:30:00] 
+
+[09:30:00]   |---------------------------------------------------
+[09:30:00]   |--- LS BeachSide Filterscript
+[09:30:00]   |--  Script v1.03
+[09:30:00]   |--  19th April 2015
+[09:30:00]   |---------------------------------------------------
+[09:30:00]   |--  LS BeachSide Building Elevator created
+[09:30:00]   |---------------------------------------------------
+[09:30:00]   Loaded 10 filterscripts.
+
+[09:30:00] Reading File: blank
+[09:30:00] Reading File: properties/houses.txt
+[09:30:00] Reading File: properties/businesses.txt
+[09:30:00] Reading File: properties/banks.txt
+[09:30:00] Reading File: properties/police.txt
+[09:30:00] Script[gamemodes/ravanapurarp.amx]: Run time error 19: "File or function is not found"
+[09:30:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:36:12] 
+[09:36:12] Server Plugins
+[09:36:12] --------------
+[09:36:12]  Loading plugin: a_mysql
+[09:36:12]   Failed.
+[09:36:12]  Loaded 0 plugins.
+
+[09:36:12] 
+[09:36:12] Filterscripts
+[09:36:12] ---------------
+[09:36:12]   Loading filterscript 'gl_actions.amx'...
+[09:36:12]   Loading filterscript 'gl_realtime.amx'...
+[09:36:12]   Loading filterscript 'gl_property.amx'...
+[09:36:12] 
+-----------------------------------
+[09:36:12] Grand Larceny Property Filterscript		
+[09:36:12] -----------------------------------
+
+[09:36:12]   Loading filterscript 'gl_mapicon.amx'...
+[09:36:12]   Loading filterscript 'ls_elevator.amx'...
+[09:36:12]   Loading filterscript 'attachments.amx'...
+[09:36:12]   Loading filterscript 'skinchanger.amx'...
+[09:36:12] 
+--Admin Player Skin Changer Loaded
+
+[09:36:12]   Loading filterscript 'vspawner.amx'...
+[09:36:12] 
+--Admin Vehicle Spawner Loaded
+
+[09:36:12]   Loading filterscript 'ls_mall.amx'...
+[09:36:12]   Loading filterscript 'ls_beachside.amx'...
+[09:36:12] 
+
+[09:36:12]   |---------------------------------------------------
+[09:36:12]   |--- LS BeachSide Filterscript
+[09:36:12]   |--  Script v1.03
+[09:36:12]   |--  19th April 2015
+[09:36:12]   |---------------------------------------------------
+[09:36:12]   |--  LS BeachSide Building Elevator created
+[09:36:12]   |---------------------------------------------------
+[09:36:12]   Loaded 10 filterscripts.
+
+[09:36:12] Reading File: blank
+[09:36:12] Reading File: properties/houses.txt
+[09:36:12] Reading File: properties/businesses.txt
+[09:36:12] Reading File: properties/banks.txt
+[09:36:12] Reading File: properties/police.txt
+[09:36:12] Script[gamemodes/ravanapurarp.amx]: Run time error 19: "File or function is not found"
+[09:36:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:00:45] 
+[13:00:45] Server Plugins
+[13:00:45] --------------
+[13:00:45]  Loading plugin: mysql
+[13:00:45]   Failed.
+[13:00:45]  Loaded 0 plugins.
+
+[13:00:46] 
+[13:00:46] Filterscripts
+[13:00:46] ---------------
+[13:00:46]   Loading filterscript 'gl_actions.amx'...
+[13:00:46]   Loading filterscript 'gl_realtime.amx'...
+[13:00:46]   Loading filterscript 'gl_property.amx'...
+[13:00:46] 
+-----------------------------------
+[13:00:46] Grand Larceny Property Filterscript		
+[13:00:46] -----------------------------------
+
+[13:00:46]   Loading filterscript 'gl_mapicon.amx'...
+[13:00:46]   Loading filterscript 'ls_elevator.amx'...
+[13:00:46]   Loading filterscript 'attachments.amx'...
+[13:00:46]   Loading filterscript 'skinchanger.amx'...
+[13:00:46] 
+--Admin Player Skin Changer Loaded
+
+[13:00:46]   Loading filterscript 'vspawner.amx'...
+[13:00:46] 
+--Admin Vehicle Spawner Loaded
+
+[13:00:46]   Loading filterscript 'ls_mall.amx'...
+[13:00:46]   Loading filterscript 'ls_beachside.amx'...
+[13:00:46] 
+
+[13:00:46]   |---------------------------------------------------
+[13:00:46]   |--- LS BeachSide Filterscript
+[13:00:46]   |--  Script v1.03
+[13:00:46]   |--  19th April 2015
+[13:00:46]   |---------------------------------------------------
+[13:00:46]   |--  LS BeachSide Building Elevator created
+[13:00:46]   |---------------------------------------------------
+[13:00:46]   Loaded 10 filterscripts.
+
+[13:00:46] Reading File: blank
+[13:00:46] Reading File: properties/houses.txt
+[13:00:46] Reading File: properties/businesses.txt
+[13:00:46] Reading File: properties/banks.txt
+[13:00:46] Reading File: properties/police.txt
+[13:00:46] Script[gamemodes/ravanapurarp.amx]: Run time error 19: "File or function is not found"
+[13:00:46] Number of vehicle models: 0
